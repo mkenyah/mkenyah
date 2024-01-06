@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on  various projects with other developers to enhace my skills.
 -
 - I enjoy contributing to open source projects and am really enthusiastic about learning new technology.
--  I have learnt HTML, CSS, JAVASCRIPT, REACT, C And currently learning C++.
+-  I have learnt HTML, CSS, JAVASCRIPT, REACT, C, mysql, python, c++ And currently learning django.
 -  
 -  Am looking forward to be a fullstack software engineer.
 -  My hobby is coding , swimming , learning and travelling.
