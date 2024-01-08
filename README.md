@@ -7,7 +7,8 @@
 -
 - I enjoy contributing to open source projects and am really enthusiastic about learning new technology.
 -  I have learnt HTML, CSS, JAVASCRIPT, REACT, C, mysql, python, c++ And currently learning django.
--  ![image](https://github.com/mkenyah/mkenyah/assets/127150104/7f09388b-95e4-4d9a-8533-d7f16f08f80a)  ![image](https://github.com/mkenyah/mkenyah/assets/127150104/8248d402-c91c-48a4-97ba-2399aa1093e4) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/8763dd7e-6139-468b-9df6-3c00ef83def8) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/e320afb9-a544-49d6-998e-996e883ec5ff) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/0b5e44a3-c48e-4145-a6c8-216929b2b575) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/3391af97-d9d6-4d9e-8f17-85c82cf4ea93)
+-  ![image](https://github.com/mkenyah/mkenyah/assets/127150104/7f09388b-95e4-4d9a-8533-d7f16f08f80a)  ![image](https://github.com/mkenyah/mkenyah/assets/127150104/8248d402-c91c-48a4-97ba-2399aa1093e4) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/8763dd7e-6139-468b-9df6-3c00ef83def8) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/e320afb9-a544-49d6-998e-996e883ec5ff) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/0b5e44a3-c48e-4145-a6c8-216929b2b575) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/3391af97-d9d6-4d9e-8f17-85c82cf4ea93) ![image](https://github.com/mkenyah/mkenyah/assets/127150104/146f7ed1-3ba1-47dd-93e8-827b9a36c254)
+
 
  
 
