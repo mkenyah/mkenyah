@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkenyah
+- 👋 Hi, I’m Joseph kirika
 - 
 - 👀 I’m interested in coding currently am fronted developer
 - 
