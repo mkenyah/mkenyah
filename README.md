@@ -7,7 +7,8 @@
 -
 - I enjoy contributing to open source projects and am really enthusiastic about learning new technology.
 -  I have learnt HTML, CSS, JAVASCRIPT, REACT, C, mysql, python, c++ And currently learning django.
--  
+-  ![image](https://github.com/mkenyah/mkenyah/assets/127150104/7f09388b-95e4-4d9a-8533-d7f16f08f80a)
+
 -  Am looking forward to be a fullstack software engineer.
 -  My hobby is coding , swimming , learning and travelling.
 -  
