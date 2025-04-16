@@ -1,7 +1,7 @@
 👋 Hi there! I'm Joseph Kirika
 I'm a passionate and curious full-stack developer with a strong interest in coding and building impactful digital solutions. I enjoy working across the entire stack and learning new technologies that help solve real-world problems.
 
-🎓 I'm currently pursuing a degree in Software Engineering at Zetech University, where I'm continually growing both academically and professionally.
+🎓 I'm currently pursuing a Diploma in Software Engineering at Zetech University, where I'm continually growing both academically and professionally.
 
 🌱 I'm expanding my skills daily and love working on projects that challenge and inspire me.
 
