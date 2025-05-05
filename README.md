@@ -9,7 +9,7 @@ I'm a passionate and curious full-stack developer with a strong interest in codi
 
 🔧 Technologies I’ve worked with:
 
-Frontend: HTML, CSS, JavaScript, React
+Frontend: HTML, CSS, JavaScript, React & Lravel
 
 Backend: PHP, Django, Python, C, C++
 
