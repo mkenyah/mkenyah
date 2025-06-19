@@ -17,11 +17,7 @@ Databases: MySQL, SQLite
 
 🎯 I'm open to collaborations, internships, freelance work, or tech communities where I can grow, contribute, and connect with like-minded developers.
 
-🧠 Hobbies:🧑‍💻 Coding, 🏊‍♂️swimming,  r![BookCatGIF (2)](https://github.com/user-attachments/assets/ba37bbe2-ba80-44bb-9296-b54bc166e208)
-![BookCatGIF](https://github.com/user-attachments/assets/40c3e7c2-c80f-40eb-accf-e58743b2e7f7)
-continuous learning, and ![TrainWindowGIF](https://github.com/user-attachments/assets/cdbe3550-cd9f-4503-9105-f4cd3c8473ec)
-traveling to ![AdoptionAroundTheWorldGIF](https://github.com/user-attachments/assets/e07e3c48-0f81-4679-938c-dc65d5f37d70)
- explore new cultures.
+🧠 Hobbies:🧑‍💻 Coding, 🏊‍♂️swimming,  📖continuous learning, and ✈️traveling 🆕👶Explore new cultures.
 
 📬 Let’s connect!
 
