@@ -1,7 +1,7 @@
 👋 Hi there! I'm Joseph Kirika
 I'm a passionate and curious full-stack developer with a strong interest in coding and building impactful digital solutions. I enjoy working across the entire stack and learning new technologies that help solve real-world problems.
 
-🎓 I'm currently pursuing a Diploma in Software Engineering at Zetech University, where I'm continually growing both academically and professionally.
+🎓 I'm a professional Software Engineer from Zetech University, where I  grew my skills both academically and professionally.
 
 🌱 I'm expanding my skills daily and love working on projects that challenge and inspire me.
 
@@ -13,11 +13,15 @@ Frontend: HTML, CSS, JavaScript, React & Lravel
 
 Backend: PHP, Django, Python, C, C++
 
-Databases: MySQL
+Databases: MySQL, SQLite
 
 🎯 I'm open to collaborations, internships, freelance work, or tech communities where I can grow, contribute, and connect with like-minded developers.
 
-🧠 Hobbies: Coding, swimming, continuous learning, and traveling to explore new cultures.
+🧠 Hobbies:🧑‍💻 Coding, 🏊‍♂️swimming,  r![BookCatGIF (2)](https://github.com/user-attachments/assets/ba37bbe2-ba80-44bb-9296-b54bc166e208)
+![BookCatGIF](https://github.com/user-attachments/assets/40c3e7c2-c80f-40eb-accf-e58743b2e7f7)
+continuous learning, and ![TrainWindowGIF](https://github.com/user-attachments/assets/cdbe3550-cd9f-4503-9105-f4cd3c8473ec)
+traveling to ![AdoptionAroundTheWorldGIF](https://github.com/user-attachments/assets/e07e3c48-0f81-4679-938c-dc65d5f37d70)
+ explore new cultures.
 
 📬 Let’s connect!
 
